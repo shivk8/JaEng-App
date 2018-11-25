@@ -1,3 +1,3 @@
 # JaEng-App
 
-Japanese-English translation
+Japanese-English translation app
